@@ -1,4 +1,4 @@
-body {
+kbody {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -75,4 +75,10 @@ th {
 img {
     max-width: 100%;
     height: auto;
+}
+
+.linkedin-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
