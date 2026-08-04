@@ -30,6 +30,6 @@ td {
 }
 
 /* Right aligned date/year column */
-.year {
+.date {
     text-align: right;
 }
