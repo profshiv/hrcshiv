@@ -30,6 +30,6 @@ td {
 }
 
 /* Right aligned date/year column */
-td:last-child {
+.year {
     text-align: right;
 }
