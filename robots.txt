@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://profshiv.github.io/hrcshiv/sitemap.xml
